@@ -1,0 +1,17 @@
+{
+    "name": "bama/buku-tamu",
+    "autoload": {
+        "psr-4": {
+            "Bama\\BukuTamu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bamamaulanaw",
+            "email": "bamamaulanaw@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.3"
+    }
+}
