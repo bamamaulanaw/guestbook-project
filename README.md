@@ -1,2 +1,2 @@
-# guestbook-project
+# Guestbook Project
 Simple guestbook application project.
